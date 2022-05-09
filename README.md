@@ -10,7 +10,7 @@
 * [Truecommand]()
 * [Ubuntu 22.04LTS]()
 ## 使用する主な技術と関連ドキュメント
-* [CARP(Common Adress Redundancy Protocol)]()
+* [CARP(Common Adress Redundancy Protocol)](https://github.com/limonene213u/FreeBSD/blob/main/technique/CARP.md)
 * [HAST(Highly Available Storage)]()
 * [Rgular file Filesystem]()
 ## 検証環境
