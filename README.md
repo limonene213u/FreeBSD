@@ -4,6 +4,9 @@
 FreeBSDを用いた高可用性ファイルサーバーの構築に関しては、日本語情報が少なめです。  
 ですから、自分の忘備録を兼ねてこちらにconfig等のファイルや検証結果を残しておき、共有しようという試みです。
 
+## システム概要
+**名称：うなぎ㌠**  
+
 ## 開発プロセス概要
 1. hyper-vを用いた検証環境で使用技術の練習と挙動確認
 2. 本番環境を実機にデプロイ
@@ -23,3 +26,7 @@ FreeBSDを用いた高可用性ファイルサーバーの構築に関しては�
 3. Rgular file Filesystem  
    単一ファイルをファイルシステムとして使う技術  
 
+# A.検証環境について
+
+検証環境のうち、Hyper-Vを用いたFreeBSDの初期構成は以下の通りです。  
+https://github.com/limonene213u/FreeBSD/blob/main/Razer%20Blade%2015%20Hyper-V%20Network%20Ver.1.drawio.png?raw=true
