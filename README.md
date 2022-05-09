@@ -28,5 +28,5 @@ FreeBSDを用いた高可用性ファイルサーバーの構築に関しては�
 
 # A.検証環境について
 
-検証環境のうち、Hyper-Vを用いたFreeBSDの初期構成は以下の通りです。  
-https://github.com/limonene213u/FreeBSD/blob/main/Razer%20Blade%2015%20Hyper-V%20Network%20Ver.1.drawio.png?raw=true
+検証環境のうち、Hyper-Vを用いたFreeBSDの初期構成は以下の通りです。    
+![Razer Blade 15 Hyper-V Network Ver 1 drawio (1)](https://user-images.githubusercontent.com/57677762/167357506-46127dc6-7cb3-4b5c-afcb-0bfd44c459fe.png)
