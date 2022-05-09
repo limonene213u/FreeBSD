@@ -16,8 +16,9 @@
 ## 検証環境
 ### 検証環境そのものの解説
 * [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/test_env/readme.md)
-### 検証環境で使用する技術
+### 特に検証環境で使用する技術と機材
 * [Hyper-V](https://github.com/limonene213u/FreeBSD/blob/main/test_env/hyper-v.md)
+* [Razer Blade15（RZ09）](https://mysupport.razer.com/app/answers/detail/a_id/2573/~/at-a-glance%3A-razer-blade-15-base-%282018%29-%7C-rz09-02705)
 ## 本番環境
 ### 本番環境そのものの解説
 * [本番環境について](https://github.com/limonene213u/FreeBSD/blob/main/product_env/readme.md)
