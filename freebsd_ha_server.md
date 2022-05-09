@@ -29,7 +29,7 @@ FreeBSDを用いた高可用性ファイルサーバーの構築に関しては�
    単一ファイルをファイルシステムとして使う技術  
 
 # A.検証環境について
-* [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/test_env/readme.md)
+* [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/test_env/readme.md)に移動しました。
 # B.本番環境について（予定）
 「いま現在、別の本番環境で使用している機材のほうが使用感が分かって良い」という認識のもと、これらの機材を使うことを想定しています。もっと実用に適した機材が見つかった場合、機材は変更になる可能性があります。
 ## 使用機材
