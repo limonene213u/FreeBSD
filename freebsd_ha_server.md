@@ -28,7 +28,7 @@ FreeBSDを用いた高可用性ファイルサーバーの構築に関しては�
 3. Rgular file Filesystem  
    単一ファイルをファイルシステムとして使う技術  
 
-# A.検証環境について（Ver.1.0）
+# A.検証環境について
 * [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/test_env/readme.md)
 <br>
 # 本番環境について（予定）
