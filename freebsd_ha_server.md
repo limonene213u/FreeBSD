@@ -63,4 +63,5 @@ Razer Blade 15(Basemodel)のWindows上に構築します。
   Xeon E3-1280 V3（4C8T）  
   RAM：32GB  
   Strage：4TB（SAS HDD、RAID-Z）
+  >TrueNAS Scale用に２台使用します
 * AlliedTelesis AT-X510-28GTX
