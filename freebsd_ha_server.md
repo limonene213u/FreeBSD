@@ -52,3 +52,8 @@ Razer Blade 15(Basemodel)のWindows上に構築します。
 ## ネットワーク構成について（Internal編）<br> 
   （以下編集中）
 <br>
+# 本番環境について
+## 使用機材
+* HPE DL360e Gen8  
+  Xeon E5-2670 V2×2（20C40T）
+* AlliedTelesis AT-X510-28GTX
