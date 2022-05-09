@@ -1,4 +1,4 @@
-# FreeBSDを用いた高可用性ファイルサーバー構築の各ドキュメント
+# 本プロジェクトのもくじ
 
 ## 概要
 * [FreeBSDで高可用性ファイルサーバー構築の概要](https://github.com/limonene213u/FreeBSD/blob/main/freebsd_ha_server.md)
