@@ -26,3 +26,5 @@
 * [HPE ML310e Gen8 V2](https://github.com/limonene213u/FreeBSD/blob/main/freebsd_ha_server.md#%E4%BD%BF%E7%94%A8%E6%A9%9F%E6%9D%90)
 ## 課題とその解決
 ※編集中
+## 参考文献等リンク集
+※編集中
