@@ -55,7 +55,7 @@ Razer Blade 15(Basemodel)のWindows上に構築します。
 # 本番環境について（予定）
 ## 使用機材
 * HPE DL360e Gen8  
-  Xeon E5-2670 V2×2（20C40T）　　
+  Xeon E5-2670 V2×2（20C40T）  
   RAM:80GB  
   Strage：2TB（Full SSD、RAID6）
   >FreeBSD用に2台使用します
