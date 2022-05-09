@@ -15,7 +15,7 @@
 1. CARP(Common Adress Redundancy Protocol)  
    複数のサーバでIPアドレスを共有し、冗長化を実現するためのプロトコル  
 2. HAST(Highly Available Storage)  
-   2台のサーバ間でファイルシステムを同期して、高可用性ストレージを実現する技術。  
+   2台のサーバ間でファイルシステムを同期して、高可用性ストレージを実現する技術  
 3. Rgular file Filesystem  
-   単一ファイルをファイルシステムとして使う技術。  
+   単一ファイルをファイルシステムとして使う技術  
 
