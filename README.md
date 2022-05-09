@@ -8,7 +8,8 @@
 1. FreeBSD 13.0
 2. TrueNAS Scale
 3. Truecommand
-4. Ubuntu 22.04 LTS(Server)
+4. Ubuntu 22.04 LTS(Server)  
+   ※Ubuntu上のdockerにTruecommandを入れて運用する予定
 
 ## 使用する技術
 1. CARP(Common Adress Redundancy Protocol)  
