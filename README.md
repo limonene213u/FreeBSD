@@ -17,7 +17,7 @@
 ### 検証環境そのものの解説
 * [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/freebsd_ha_server.md#a%E6%A4%9C%E8%A8%BC%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6ver10)
 ### 検証環境で使用する技術
-* [Hyper-V]()
+* [Hyper-V](https://github.com/limonene213u/FreeBSD/blob/main/test_env/hyper-v.md)
 ## 本番環境
 ### 本番環境で使う機材についての概要
 * [HPE DL360e Gen8](https://github.com/limonene213u/FreeBSD/blob/main/freebsd_ha_server.md#%E4%BD%BF%E7%94%A8%E6%A9%9F%E6%9D%90)
