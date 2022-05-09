@@ -11,8 +11,8 @@
 * [Ubuntu 22.04LTS]()
 ## 使用する主な技術と関連ドキュメント
 * [CARP(Common Adress Redundancy Protocol)](https://github.com/limonene213u/FreeBSD/blob/main/technique/CARP.md)
-* [HAST(Highly Available Storage)]()
-* [Rgular file Filesystem]()
+* [HAST(Highly Available Storage)](https://github.com/limonene213u/FreeBSD/blob/main/technique/HAST.md)
+* [Rgular file Filesystem](https://github.com/limonene213u/FreeBSD/blob/main/technique/RFS.md)
 ## 検証環境
 ### 検証環境そのものの解説
 * [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/freebsd_ha_server.md#a%E6%A4%9C%E8%A8%BC%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6ver10)
