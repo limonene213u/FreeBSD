@@ -66,3 +66,4 @@ Razer Blade 15(Basemodel)のWindows上に構築します。
   Strage：4TB（SAS HDD、RAID-Z）
   >TrueNAS Scale用に3台使用します
 * AlliedTelesis AT-X510-28GTX
+  >コアスイッチ
