@@ -5,7 +5,7 @@
 ## FreeBSDそのものの説明
 * [公式ドキュメント](https://docs.freebsd.org/ja/books/handbook/preface/)
 ## 使用する主なOSと関連ファイル
-* [FreeBSD 13.0]()
+* [FreeBSD 13.0](https://github.com/limonene213u/FreeBSD/blob/main/os/freebsd/freebsd_13.md)
 * [TrueNAS Scale]()
 * [Truecommand]()
 * [Ubuntu 22.04LTS]()
