@@ -30,3 +30,6 @@
 ※編集中
 ## 参考文献等リンク集
 ※編集中
+
+***
+[りもこ＠面白インフラエンジニア（β](https://twitter.com/limonene_citrus)  
