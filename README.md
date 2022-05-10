@@ -13,6 +13,7 @@
 * [CARP(Common Adress Redundancy Protocol)](https://github.com/limonene213u/FreeBSD/blob/main/technique/CARP.md)
 * [HAST(Highly Available Storage)](https://github.com/limonene213u/FreeBSD/blob/main/technique/HAST.md)
 * [Rgular file Filesystem](https://github.com/limonene213u/FreeBSD/blob/main/technique/RFS.md)
+* iSCSI
 ## 検証環境
 ### 検証環境そのものの解説
 * [検証環境について](https://github.com/limonene213u/FreeBSD/blob/main/test_env/readme.md)
