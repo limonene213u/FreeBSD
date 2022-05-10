@@ -32,4 +32,4 @@
 ※編集中
 
 ***
-[りもこ＠面白インフラエンジニア（β](https://twitter.com/limonene_citrus)  
+この人は？：[りもこ＠面白インフラエンジニア（Twitter）](https://twitter.com/limonene_citrus)  
